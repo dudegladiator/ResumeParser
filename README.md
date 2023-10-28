@@ -1,3 +1,4 @@
 # ResumeParser
 Resume Parser Using Spacy
-Soon, it will open sourced
+
+Soon, it will be open sourced
